@@ -1,2 +1,65 @@
-# AniriDeve-blog
-Technical blog about Kotlin and Android development. Articles, examples, and practical guides for beginners and junior developers. Based on real experience and teaching practice.
+# 📚 AniriDeve Blog — Kotlin & Android разработка
+
+Добро пожаловать в мой технический блог!
+
+Этот репозиторий содержит статьи по **Kotlin и Android-разработке**, написанные на основе практического опыта и преподавания.
+
+---
+
+## О чём этот блог
+
+Здесь ты найдёшь:
+
+- основы Kotlin для начинающих
+- работу с Null Safety и безопасным кодом
+- функции, коллекции и ООП
+- архитектуру Android-приложений
+- Jetpack Compose и современный UI
+- корутины и асинхронность
+- практические примеры из реальных задач
+
+---
+
+## Для кого этот блог
+
+Этот блог будет полезен:
+
+- начинающим разработчикам Kotlin
+- Android Junior разработчикам
+- студентам и самоучкам
+- тем, кто готовится к собеседованиям
+- участникам моего курса Kotlin Basic Start
+
+---
+
+## Структура
+
+- `posts/kotlin` — статьи по языку Kotlin
+- `posts/android` — разработка Android-приложений
+- `guides` — обучающие материалы и инструкции
+- `roadmap` — дорожные карты разработчика
+- `series` — материалы по курсу Kotlin Basic Start
+
+---
+
+## Цель проекта
+
+Этот блог создан как:
+
+- личное портфолио Android-разработчика
+- база знаний по Kotlin
+- поддержка обучающего курса Kotlin Basic Start
+- путь от новичка до Junior/Middle разработчика
+
+---
+
+## Контакты и обучение
+
+Если тебе интересно обучение или курс Kotlin Basic Start — информация будет добавлена позже в отдельном разделе.
+
+---
+
+## 🧠 Автор
+
+**Aniri Deve**  
+Android разработчик и преподаватель Kotlin  
